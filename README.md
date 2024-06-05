@@ -76,15 +76,11 @@ The project includes an array of predefined songs that can be used for testing a
 
 ## Contributors
 
-- Mujtaba Saqib: 22K-4005
-- Hafsa Salman: 22K-5161
-
-## License
-
-This project is licensed under the MIT License.
+- Mujtaba Saqib
+- Hafsa Salman
 
 ## Acknowledgments
 
-Special thanks to my teammate Hafsa for their support and guidance throughout this project. Feel free to give feedback and collaborate on any project
+Special thanks to my teammate Hafsa for their support and guidance throughout this project. Feel free to give feedback and collaborate on any project.
 
-Feel free to modify this README according to your project's specific details and requirements.
+For feedback, contact me at mujtabsaqib654@gmail.com.
