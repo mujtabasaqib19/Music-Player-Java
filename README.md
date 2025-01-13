@@ -32,7 +32,7 @@ The project consists of several classes:
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/your-username/java-music-player.git
+   git clone https://github.com/mujtabasaqib19/java-music-player.git
    ```
 
 2. **Navigate to the Project Directory:**
